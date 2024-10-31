@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b116eedb09f1487ab2dbf32f09996e0a" Name="Diagram1">
+        <EntityTypeShape EntityType="QL_DiemTTCDModel.CHI_TIET_DON_HANG" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DiemTTCDModel.DON_HANG" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DiemTTCDModel.KHACH_HANG" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DiemTTCDModel.QUAN_TRI" Width="1.5" PointX="7.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DiemTTCDModel.SAN_PHAM" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DiemTTCDModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="QL_DiemTTCDModel.FK__CHI_TIET_D__MaDH__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DiemTTCDModel.FK__CHI_TIET_D__MaSP__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DiemTTCDModel.FK__DON_HANG__MaKH__4222D4EF" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
